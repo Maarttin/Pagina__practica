@@ -1,0 +1,68 @@
+body{
+}
+body{
+padding:0;
+margin:0;
+}
+.container{
+position:relative;
+background:#24F4F7;
+width:100%;
+height:20vh;
+text-aling:center;
+}
+.name{
+font-size:5em;
+font-family:arial;
+font-weight:bold;
+position:relative;
+color:#B129D6;
+animation:nameani 10s linear infinite;
+top:10%;
+transform:translateY(50%);
+display:inline-block;
+letter-spacing:15px;
+padding-left:30px;
+box-sizing:border-box;
+}
+.c{
+animation:cani 2s linear infinite;
+}
+.h{
+animation:cani 2s linear infinite 1s;
+}
+.a{
+animation:cani 2s linear infinite 2s;
+}
+.n{
+animation:cani 2s linear infinite 3s;
+}
+.d{
+animation:cani 2s linear infinite 4s;
+}
+.e{
+animation:cani 2s linear infinite 5s;
+}
+.r{
+animation:cani 2s linear infinite 6s;
+}
+.q{
+animation:cani 2s linear infinite 6s;
+}
+.w{
+animation:cani 2s linear infinite 7s;
+}
+.t{
+animation:cani 2s linear infinite 8s;
+}
+.y{
+animation:cani 2s linear infinite 8s;
+}
+.u{
+animation:cani 2s linear infinite 9s;
+}
+@keyframes cani{
+0%,100%{transform:translateY(0%);}
+50%
+{transform:translateY(50%);background:#F2EF2C;color:#000000;}
+}

@@ -1,0 +1,87 @@
+/*
+estiloss.css
+*/
+*{
+box-sizing: border-box;
+}
+body{
+}
+body{
+padding:0%;
+margin:0%;
+}
+header,footer{
+background-color: #F7F724;
+border.style: solid;
+border-radius: 40px;
+padding: 5px;
+text-aling:center;
+padding:0%;
+margin:0%;
+}
+.separador1{
+height: 30px;
+clear:both;
+}
+.separador3{
+width: 5%;
+height: 1px;
+float: left;
+}
+.main img{
+height:46%;
+width: 46%;
+float: left;
+border-style: solid;
+border-color: blue;
+}
+.bloque{
+transition: all 0.5s linear;
+}
+.bloque:hover{
+transform: scale(1.1);
+}
+.main img{
+transition: all 0.5s linear;
+}
+.main img:hover{
+transform: scale(1.1);
+}
+.separador2{
+height: 20px;
+}
+.separador{
+height: 10px;
+}
+.centro img{
+width:60%
+background-position:center;
+height: 40%;
+margin-left: auto;
+margin-right: auto;
+display: block;
+border-style: solid;
+border-color: white;
+}
+.centro img{
+transition: all 0.5s linear;
+}
+.centro img:hover{
+transform: scale(0.9);
+}
+.centro img:hover{
+transform:rotateY(180deg);
+animayion-duration:15s;
+}
+body{
+background-image:url(fondom.jpg);
+background-position:center;
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment:fixed;
+} 
+."main"{
+heigth:1200px
+}
+.
+
